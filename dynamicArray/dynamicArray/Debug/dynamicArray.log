@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/1/20 17:18:55。
+     1>项目“D:\毕业设计\dynamicArray\dynamicArray\dynamicArray.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\dynamicArray.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\Programes\visual 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(26): error C2144: 语法错误:“int”的前面应有“;”
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(26): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(27): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(35): error C2146: 语法错误: 缺少“;”(在标识符“vel_buff”的前面)
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(36): error C2146: 语法错误: 缺少“;”(在标识符“eta_tro_buff”的前面)
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\毕业设计\dynamicarray\dynamicarray\dynamictro.hpp(36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\毕业设计\dynamicarray\dynamicarray\main.cpp(8): error C2065: “queue_eta_path”: 未声明的标识符
+     1>d:\毕业设计\dynamicarray\dynamicarray\main.cpp(8): error C2146: 语法错误: 缺少“;”(在标识符“eta_path1”的前面)
+     1>d:\毕业设计\dynamicarray\dynamicarray\main.cpp(8): error C2065: “eta_path1”: 未声明的标识符
+     1>已完成生成项目“D:\毕业设计\dynamicArray\dynamicArray\dynamicArray.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.22
