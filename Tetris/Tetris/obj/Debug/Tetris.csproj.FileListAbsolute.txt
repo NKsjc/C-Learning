@@ -1,0 +1,8 @@
+D:\GitHub\C-Learning\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Learning\Tetris\Tetris\obj\Debug\Tetris.frmConfigure.resources
+D:\GitHub\C-Learning\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\GitHub\C-Learning\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\GitHub\C-Learning\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\GitHub\C-Learning\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\GitHub\C-Learning\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\GitHub\C-Learning\Tetris\Tetris\obj\Debug\Tetris.pdb
